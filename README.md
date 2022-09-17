@@ -5,4 +5,4 @@ The data for this project was provided by the United States Sensus Bureau.
 https://data.census.gov/cedsci/table?q=Texas%20Health&mode=results
 
 # AGE
-![Population Age](https://github.com/bmmontz/TX-Health-Insurance-Findings/issues/1#issuecomment-1250131325)
+
