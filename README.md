@@ -12,7 +12,7 @@ Once the ranges from 65 and above, the age range of Texans 35 to 44 years are mo
 
 ## Sex
 ![image](https://github.com/bmmontz/TX-Health-Insurance-Findings/blob/56a163db1405945b060efc18f32d335778094731/HI%20Sex%20Table.png?raw=true)
-In the table above I found that women are more likely to be insured than men. 
+ In the table above I found that women are more likely to be insured than men. 
 
 ## Race & Origin
 ![image](https://github.com/bmmontz/TX-Health-Insurance-Findings/blob/56a163db1405945b060efc18f32d335778094731/HI%20Race%20Table.png?raw=true)
