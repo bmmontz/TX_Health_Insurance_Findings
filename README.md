@@ -1,4 +1,4 @@
-# TX-Health-Insurance-Findings
+# Texas Health Insurance Findings
 I have displayed my findings on selected characteristics of health insurance coverage in the state of Texas using pivot tables, charts and slicers on an Excel spreadsheet. 
 
 The [data](https://data.census.gov/cedsci/table?q=Texas%20Health&tid=ACSST1Y2021.S2701) for this project was provided by the United States Census Bureau. There were a total of eleven different characteristics accounted for, however I focused on five: Age, Sex, Race & Origin, Educational Attainment and Employment Status. 
